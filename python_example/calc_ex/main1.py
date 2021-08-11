@@ -5,3 +5,6 @@ print("add = {}".format(a))
 
 b = mul(10,3)
 print("mul = {}".format(b))
+
+# # all module call
+# from calc import *

@@ -1,5 +1,5 @@
 import openpyxl
-# 엑셀 파일 만들기
+# 엑셀 파일 쓰기
 
 wb = openpyxl.Workbook()
 sheet = wb.active
